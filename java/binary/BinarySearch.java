@@ -1,4 +1,4 @@
-package org.fakesib;
+package binary;
 
 public class BinarySearch {
     int binarySearch(int[] list, int item){

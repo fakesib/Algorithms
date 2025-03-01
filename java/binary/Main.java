@@ -1,4 +1,6 @@
-package org.fakesib;
+package binary;
+
+import binary.BinarySearch;
 
 public class Main {
     public static void main(String[] args) {
